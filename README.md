@@ -1,4 +1,4 @@
-# Desafíos de Código - Curso de Lógica de Programación con JavaScript
+# Desafíos de Código - Curso de Lógica de Programación con JavaScript [Curso Oracle Next Education]
 
 Este repositorio contiene las soluciones a los desafíos de código propuestos en el curso **Lógica de programación: explorar funciones y listas** de Oracle Next Education. Cada desafío está diseñado para mejorar las habilidades de lógica y programación en JavaScript.
 
