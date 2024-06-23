@@ -6,8 +6,6 @@
 
 // desafio 02 - Funciones.
 
-// Desafíos
-
 // Crear una función que muestre "¡Hola, mundo!" en la consola.
 function saludar() {
     console.log("¡Hola, mundo!");

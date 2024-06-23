@@ -6,9 +6,6 @@
 
 // desafio 02 - Funciones.
 
-// Desafíos
-
-
 // Crea una función que calcule el índice de masa corporal (IMC) de una persona a partir de su altura en metros y peso en kilogramos, que se recibirán como parámetros.
 function calcularIMC(peso, altura) {
     return peso / (altura * altura);

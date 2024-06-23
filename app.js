@@ -6,10 +6,6 @@
 
 // desafio 01 - Interactuar con HTML.
 
-// Desafíos
-
-// Descarga otro proyecto haciendo clic en este enlace y ábrelo en Visual Studio Code.
-
 // Cambia el contenido de la etiqueta h1 con document.querySelector y asigna el siguiente texto: "Hora del Desafío".
 document.querySelector('h1').textContent = "Hora del Desafío";
 
